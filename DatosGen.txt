@@ -2,3 +2,6 @@ Nombre: Gerald José Díaz Mairena.
 Edad: 18 años.
 Carerra:Ingeniería en Sistema.
 Segundo año de la carrera.
+
+¿Por que me gusta la programación?
+Me gusta porque me permite diseñar mis proyectos teniendo libertad de poner en practica mi creatividad.
